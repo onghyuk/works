@@ -1,0 +1,26 @@
+body{
+    padding-left: 15vw;
+    padding-right: 15vw;
+    padding-top: 10vw;
+    padding-bottom: 10vw;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+
+    line-height: 2vh;
+}
+
+.text{
+    display: grid;
+    grid-template-columns: 20vw 1fr;
+    gap: 10vw;
+    margin-top: 1vh;
+}
+
+.container{
+    margin-top: 20vh;
+}
+
+.img{
+    margin-top: 3vh;
+}
