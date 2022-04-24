@@ -7,7 +7,7 @@ body{
     color: white;
     font-family: sans-serif;
 
-    line-height: 2vh;
+    line-height: 1.5em;
 }
 
 .text{
@@ -22,5 +22,11 @@ body{
 }
 
 .img{
+    margin-top: 3vh;
+    width: 100%;
+}
+
+.imgvertical{
+    width: 70%;
     margin-top: 3vh;
 }
